@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:uasmobile/data_service.dart';
 import 'package:uasmobile/weather_model.dart';
 
-//Zulfikar Alwi
-//181011450389
+//Moh Zaeni
+//181021450028
 
 void main() {
   runApp(const MyApp());
